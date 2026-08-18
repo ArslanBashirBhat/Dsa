@@ -11,6 +11,7 @@ void printboard(vector<vector<char>> board){
             cout << board[i][j] <<" ";
         }
         cout<<endl;
+        
     }
 
     cout<< "---------\n";
