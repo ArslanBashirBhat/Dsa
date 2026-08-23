@@ -1,0 +1,22 @@
+<script>start("/Users/arslanbashir/Documents/apna college dsa/Arrays/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("array.cpp","array.cpp",0,513,"513 B",1787216471,"20/08/2026, 14:31:11");</script>
+<script>addRow("binary_search","binary_search",0,38688,"37.8 kB",1787230050,"20/08/2026, 18:17:30");</script>
+<script>addRow("binary_search.cpp","binary_search.cpp",0,565,"565 B",1787230049,"20/08/2026, 18:17:29");</script>
+<script>addRow("buy_sell_stocks","buy_sell_stocks",0,38880,"38.0 kB",1787318211,"21/08/2026, 18:46:51");</script>
+<script>addRow("buy_sell_stocks.cpp","buy_sell_stocks.cpp",0,461,"461 B",1787318209,"21/08/2026, 18:46:49");</script>
+<script>addRow("largest_in_array","largest_in_array",0,38624,"37.7 kB",1787216894,"20/08/2026, 14:38:14");</script>
+<script>addRow("largest_in_array.cpp","largest_in_array.cpp",0,315,"315 B",1787216900,"20/08/2026, 14:38:20");</script>
+<script>addRow("linear_search","linear_search",0,38624,"37.7 kB",1787216627,"20/08/2026, 14:33:47");</script>
+<script>addRow("linearSearch","linearSearch",0,39344,"38.4 kB",1787221617,"20/08/2026, 15:56:57");</script>
+<script>addRow("linearSearch.cpp","linearSearch.cpp",0,598,"598 B",1787221621,"20/08/2026, 15:57:01");</script>
+<script>addRow("max_subarraySum","max_subarraySum",0,38896,"38.0 kB",1787315261,"21/08/2026, 17:57:41");</script>
+<script>addRow("max_subarraySum.cpp","max_subarraySum.cpp",0,1047,"1.0 kB",1787315260,"21/08/2026, 17:57:40");</script>
+<script>addRow("print_subarray","print_subarray",0,39152,"38.2 kB",1787311680,"21/08/2026, 16:58:00");</script>
+<script>addRow("print_subarray.cpp","print_subarray.cpp",0,395,"395 B",1787311654,"21/08/2026, 16:57:34");</script>
+<script>addRow("rev_noextra_space","rev_noextra_space",0,38672,"37.8 kB",1787226937,"20/08/2026, 17:25:37");</script>
+<script>addRow("rev_noextra_space.cpp","rev_noextra_space.cpp",0,389,"389 B",1787226933,"20/08/2026, 17:25:33");</script>
+<script>addRow("reverse_array","reverse_array",0,38672,"37.8 kB",1787225439,"20/08/2026, 17:00:39");</script>
+<script>addRow("reverse_array.cpp","reverse_array.cpp",0,335,"335 B",1787225437,"20/08/2026, 17:00:37");</script>
+<script>addRow("trapping_rainwater","trapping_rainwater",0,39056,"38.1 kB",1787473397,"23/08/2026, 13:53:17");</script>
+<script>addRow("trapping_rainwater.cpp","trapping_rainwater.cpp",0,758,"758 B",1787473385,"23/08/2026, 13:53:05");</script>
